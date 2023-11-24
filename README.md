@@ -1,5 +1,7 @@
-<h1 align="center">Hi 👋, I'm Rifa </h1>
-
+<h1 align="center">Hi 👋, I'm Rifa</h1>
+<div>
+  <a href="https://github.com/yagamirifa" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
+</div>
 <!-- <p align="center">
 <a href="https://visitcount.itsvg.in">
   <img src="https://visitcount.itsvg.in/api?id=68689489&label=Profile%20Views&pretty=false" />
@@ -28,15 +30,52 @@
 <!-- ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) -->
 
 ## Stats
-
-<p align="left">
+<p align=center>
 <a href="https://github.com/yagamirifa">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=yagamirifa&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=yagamirifa&layout=compact&langs_count=8&theme=algolia"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=yagamirifa&show_icons=true&locale=en&theme=tokyonight" alt="yagamirifa" />
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yagamirifa&layout=compact&theme=tokyonight" alt=yagamirifa />
 </a>
 </p>
-<!--
+
+
+<!-- 
+<p align="center">
+  <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=yagamirifa&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=yagamirifa&layout=compact&langs_count=8&theme=algolia"/>
+</a>
+</p>
+-->
+<!-- 
 ![yagamirifa's GitHub stats](https://github-readme-stats.vercel.app/api?username=yagamirifa&show_icons=true&theme=radical&hide_border=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yagamirifa&layout=compact&theme=radical&hide_border=true) <br>
 [![](https://visitcount.itsvg.in/api?id=yagamirifa&label=Profile%20Views&color=9&icon=1&pretty=false)](https://visitcount.itsvg.in)
--- >
+-->
+<!--
+<h3 align="left">Languages and Tools:</h3>
+<p align="left">
+<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Frontend/html5-original-wordmark.svg" alt="HTML" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Frontend/css3-original-wordmark.svg" alt="Css" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Frontend/tailwindcss-icon.svg" alt="Tailwindcss" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Frontend/bootstrap-plain-wordmark.svg" alt="Bootstrap" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Database/mysql-original-wordmark.svg" alt="Mysql" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Languages/php-original.svg" alt="PHP" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Other/arduino-1.svg" alt="Arduino" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Other/git-scm-icon.svg" alt="Git" width="40" height="40"/>
+</p>
+-->
+
+
+<!--
+**YagamiRifa/YagamiRifa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+Here are some ideas to get you started:
+
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+-->
