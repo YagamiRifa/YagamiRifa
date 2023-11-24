@@ -5,12 +5,11 @@
   <img src="https://visitcount.itsvg.in/api?id=68689489&label=Profile%20Views&pretty=false" />
 </a>
 </p> -->
-<p align="center">
+<!-- <p align="center">
   <a href="https://discord.com/users/948092281557237842">
     <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord">
   </a>
-</p>
-</h1>
+</p> -->
 
 ## About
 - 🌱 I’m currently learning **Framework Web & Framework CSS**
