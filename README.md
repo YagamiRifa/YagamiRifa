@@ -29,6 +29,14 @@
 
 ## Stats
 
+<p align="left">
+<a href="https://github.com/yagamirifa">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=yagamirifa&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=yagamirifa&layout=compact&langs_count=8&theme=algolia"/>
+</a>
+</p>
+<!--
 ![yagamirifa's GitHub stats](https://github-readme-stats.vercel.app/api?username=yagamirifa&show_icons=true&theme=radical&hide_border=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yagamirifa&layout=compact&theme=radical&hide_border=true) <br>
 [![](https://visitcount.itsvg.in/api?id=yagamirifa&label=Profile%20Views&color=9&icon=1&pretty=false)](https://visitcount.itsvg.in)
+-- >
