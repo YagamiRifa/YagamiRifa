@@ -35,15 +35,14 @@
 <p align=center>
 <a href="https://github.com/yagamirifa">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=yagamirifa&show_icons=true&locale=en&theme=tokyonight" alt="yagamirifa" />
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yagamirifa&layout=compact&theme=tokyonight" alt=yagamirifa />
+<!--   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yagamirifa&layout=compact&theme=tokyonight" alt=yagamirifa /> -->
 </a>
 </p>
 
 
 <!-- 
 <p align="center">
-  <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=yagamirifa&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=yagamirifa&layout=compact&langs_count=8&theme=algolia"/>
+  
 </a>
 </p>
 -->
